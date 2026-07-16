@@ -1,0 +1,2 @@
+# INF-75-50-M-5-Machine-Learning-I---Theoretical-Foundations
+Beyond completing coursework, this repository is my sandbox for exploring the theoretical foundations of Machine Learning. I experiment with algorithms, visualize their internal behavior, tweak parameters, and analyze how every change affects model performance and decision-making to build a deeper intuition for the mathematics behind modern AI.
