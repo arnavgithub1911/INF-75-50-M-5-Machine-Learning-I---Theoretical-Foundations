@@ -2,10 +2,6 @@
 ## From Distance-Based Learning to Maximum Margin Classification
 
 <p align="center">
-<img src="images/banner.png" width="100%">
-</p>
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?style=for-the-badge&logo=scikit-learn)
